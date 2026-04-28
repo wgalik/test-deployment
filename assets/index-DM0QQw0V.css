@@ -1105,28 +1105,28 @@ section:not(#hero) {
   scale: 1.05;
 }
 #portfolio-gallery .portfolio-gallery-card.portfolio-project-dtp:nth-child(1) {
-  background-image: url(/assets/portfolio-dtp_1-DOI6GW4x.jpg);
+  background-image: url(assets/portfolio-dtp_1-DOI6GW4x.jpg);
 }
 #portfolio-gallery .portfolio-gallery-card.portfolio-project-dtp:nth-child(2) {
-  background-image: url(/assets/portfolio-dtp_2-CkUIznoD.jpg);
+  background-image: url(assets/portfolio-dtp_2-CkUIznoD.jpg);
 }
 #portfolio-gallery .portfolio-gallery-card.portfolio-project-dtp:nth-child(3) {
-  background-image: url(/assets/portfolio-dtp_3-fpONWC4z.JPG);
+  background-image: url(assets/portfolio-dtp_3-fpONWC4z.JPG);
 }
 #portfolio-gallery .portfolio-gallery-card.portfolio-project-dtp:nth-child(4) {
-  background-image: url(/assets/portfolio-dtp_4-W_pz2s_B.jpg);
+  background-image: url(assets/portfolio-dtp_4-W_pz2s_B.jpg);
 }
 #portfolio-gallery .portfolio-gallery-card.portfolio-project-web:nth-child(1) {
-  background-image: url(/assets/portfolio-web_1-H1H82W-y.jpg);
+  background-image: url(assets/portfolio-web_1-H1H82W-y.jpg);
 }
 #portfolio-gallery .portfolio-gallery-card.portfolio-project-web:nth-child(2) {
-  background-image: url(/assets/portfolio-web_2-CrH0uAxa.jpg);
+  background-image: url(assets/portfolio-web_2-CrH0uAxa.jpg);
 }
 #portfolio-gallery .portfolio-gallery-card.portfolio-project-web:nth-child(3) {
-  background-image: url(/assets/portfolio-web_3-CAmyHH2y.jpg);
+  background-image: url(assets/portfolio-web_3-CAmyHH2y.jpg);
 }
 #portfolio-gallery .portfolio-gallery-card.portfolio-project-web:nth-child(4) {
-  background-image: url(/assets/portfolio-web_4-BGhVXhcE.jpg);
+  background-image: url(assets/portfolio-web_4-BGhVXhcE.jpg);
 }
 .imageZoomedIn {
   width: 100%;
